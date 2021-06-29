@@ -1,5 +1,6 @@
 # Investigating Netflix Movies and Guest Stars in The Office Datacamp Project 
 My version of Investigating Netflix Movies and Guest Stars in The Office
+<h2> Unguided Project Instruction about Office and Guest Stars </h2>
 InstructionsData visualization is often a great way to start exploring your data and uncovering insights. In this notebook, you will initiate this process by creating an informative plot of the episode data provided to you. In doing so, you're going to work on several different variables, including the episode number, the viewership, the fan rating, and guest appearances. Here are the requirements needed to pass this project:
 
 Create a matplotlib scatter plot of the data that contains the following attributes:
